@@ -5,7 +5,7 @@ Given the test_data1.csv file
 create an interface to upload the csv file, and display the data in a clever way.
 
 What we are looking for:
-1) Sorting, graphs, analytics ar all allowed. We want to see a useful way to view this data
+1) Sorting, graphs, analytics are all allowed. We want to see a useful way to view this data
 2) we are looking for a single page application
 
 Bonus points:
@@ -19,6 +19,3 @@ Bonus points:
 
 Challenge mode:
 - test_data2b contains "dirty" data, clean it up before displaying it! (test_data2a is the original data)
-
-
-Tests need to be submitted via pull request.
