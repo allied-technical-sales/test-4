@@ -16,6 +16,3 @@ Bonus points:
 - functional programming
 - scalable charts (test_data1 and test_data2 have debits between 1 and 100, test_data3 has debits between 1 and 10)
 - works
-
-Challenge mode:
-- test_data2b contains "dirty" data, clean it up before displaying it! (test_data2a is the original data)
